@@ -1,0 +1,13 @@
+{
+"companyName": "Exploding Rabbit",
+"productName": "Super Mario Bros. Crossover",
+"dataUrl": "58a83e834f1ba211e42c4d7bd4308852.unityweb",
+"wasmCodeUrl": "d0296a888a2347bdebecbfc070927f68.unityweb",
+"wasmFrameworkUrl": "c2e8d586f319e45c232f54f0934fd6de.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
